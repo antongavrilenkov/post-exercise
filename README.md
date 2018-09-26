@@ -49,9 +49,9 @@ Please work from this directory, and share your implementation. Ideally, you can
 As a whole, this exercise aims to touch on a variety of skills and concepts involved in a lot of development at Type/Code. Throughout the process, please feel free to reach out for help - while we're reluctant to give hints for implemenation, we're glad to clarify specifications. Please dedicate no more than 12 hours to the exercise - while 100% completion is great, it's not expected - focus on the areas where you know you can excel and identify areas where you might need some help.
 
 
-HOW TO RUN:
-git clone https://github.com/antongavrilenkov/post-exercise
-yarn install
-yarn start
+HOW TO RUN:<br />
+git clone https://github.com/antongavrilenkov/post-exercise<br />
+yarn install<br />
+yarn start<br />
 
 Open in browser http://localhost:3000
